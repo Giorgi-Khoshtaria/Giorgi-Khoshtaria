@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 # Hi there, I'm Giorgi Khoshtaria 👋
 
 ## 🚀 About Me
@@ -8,11 +10,16 @@ I'm a passionate front-end developer with a focus on building beautiful and perf
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS
-- **Frameworks & Libraries:** React, Bootstrap, Styled Components, Tailwind CSS
-- **Tools:** Git, GitHub, VS Code
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,mongodb,nodejs,tailwind,styledcomponents,bootstrap,figma,xd,vite,vercel,github,git,vscode)](https://skillicons.dev)
 
 ---
+## 📫 How to reach me
+
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/giorgi-khoshtaria-a9b624270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/giorgi-khoshtaria-a9b624270/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100008850227053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100008850227053" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/g1org1.khoshtaria/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/g1org1.khoshtaria/" height="30" width="40" /></a>
+</p>
 
 ## 📊 GitHub Stats
 
@@ -33,12 +40,6 @@ I'm a passionate front-end developer with a focus on building beautiful and perf
 
 ---
 
-## 📫 How to reach me
-- **Email:** <a href="mailto:khoshtariagiorgi0@gmail.com" style="text-decoration: none;">khoshtariagiorgi0@gmail.com</a>
-- **LinkedIn:** <a href="https://www.linkedin.com/in/giorgi-khoshtaria-a9b624270/" style="text-decoration: none;">giorgi-khoshtaria</a>
-- **Facebook:** <a href="https://www.facebook.com/profile.php?id=100008850227053" style="text-decoration: none;">Gio Khoshtaria</a>
-
----
 
 ## 🌱 Currently Learning
 
