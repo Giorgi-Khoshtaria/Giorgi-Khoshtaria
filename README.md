@@ -16,23 +16,34 @@ I'm a passionate front-end developer with a focus on building beautiful and perf
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Giorgi-Khoshtaria&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Giorgi-Khoshtaria&layout=compact&theme=radical)
+<p align="center">
+  <a href="[https://github.com/DavitDvalashvili](https://github.com/Giorgi-Khoshtaria)" style="text-decoration: none;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giorgi-Khoshtaria&theme=radical" alt="Giorgi-Khoshtaria's GitHub Contribution"/>
+  </a>
+</p>
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <a href="https://github.com/Giorgi-Khoshtaria" style="text-decoration: none;">
+    <img alt="Giorgi-Khoshtaria's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Giorgi-Khoshtaria&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49%"/>
+  </a>
+  <a href="https://github.com/Giorgi-Khoshtaria" style="text-decoration: none;">
+    <img alt="Giorgi-Khoshtaria's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Giorgi-Khoshtaria&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49%"/>
+  </a>
+</div>
 
 ---
 
 ## 📫 How to reach me
+- **Email:** <a href="mailto:khoshtariagiorgi0@gmail.com" style="text-decoration: none;">khoshtariagiorgi0@gmail.com</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/giorgi-khoshtaria-a9b624270/" style="text-decoration: none;">giorgi-khoshtaria</a>
+- **Facebook:** <a href="https://www.facebook.com/profile.php?id=100008850227053" style="text-decoration: none;">Gio Khoshtaria</a>
 
-- **Email:** khoshtariagiorgi0@gmail.com
-- **LinkedIn:** [giorgi-khoshtaria]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/giorgi-khoshtaria-a9b624270/))
-- **FaceBook:** [Gio Khoshtaria]([https://twitter.com/yourusername](https://www.facebook.com/profile.php?id=100008850227053))
 ---
 
 ## 🌱 Currently Learning
 
 - Advanced TypeScript techniques
-- Server-side rendering with Next.js
-- State management with Redux and Recoil
+- State management with Redux
 
 ---
 
