@@ -16,32 +16,16 @@ I'm a passionate front-end developer with a focus on building beautiful and perf
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Giorgi-Khoshtaria=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Giorgi-Khoshtaria&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Giorgi-Khoshtaria&layout=compact&theme=radical)
-
----
-
-## 💻 Projects
-
-- [Project 1](https://github.com/yourusername/project1) - Brief description of what this project does.
-- [Project 2](https://github.com/yourusername/project2) - Brief description of what this project does.
-- [Project 3](https://github.com/yourusername/project3) - Brief description of what this project does.
 
 ---
 
 ## 📫 How to reach me
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- **Twitter:** [Your Twitter Profile](https://twitter.com/yourusername)
-
----
-
-## 🏆 Achievements
-
-- **Contributor:** Open source contributions to [Project Name](https://github.com/project).
-- **Certifications:** List any relevant certifications here.
-
+- **Email:** khoshtariagiorgi0@gmail.com
+- **LinkedIn:** [giorgi-khoshtaria]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/giorgi-khoshtaria-a9b624270/))
+- **FaceBook:** [Gio Khoshtaria]([https://twitter.com/yourusername](https://www.facebook.com/profile.php?id=100008850227053))
 ---
 
 ## 🌱 Currently Learning
