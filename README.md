@@ -3,12 +3,11 @@
 # Hi there, I'm Giorgi Khoshtaria 👋
 
 ## 🚀 About Me
-<div display="flex" justify-content= "space-between" flex-wrap="wrap" width="100%;">
+
   <p style="flex: 1; min-width: 250px; margin: 0;">
     I'm a passionate front-end developer with a focus on building beautiful and performant web applications. My core skills revolve around modern JavaScript frameworks and libraries, particularly React, with a strong emphasis on TypeScript for type-safe code. I enjoy working on user interfaces, bringing designs to life with tools like HTML, CSS, Bootstrap, Styled Components, and Tailwind CSS.
   </p>
-  <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="logo" style="flex: 1; max-width: 100%; height: auto; margin-left: 20px;">
-</div>
+ 
 
 ---
 
