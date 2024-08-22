@@ -1,12 +1,14 @@
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 # Hi there, I'm Giorgi Khoshtaria 👋
 
 ## 🚀 About Me
 
-  <p style="flex: 1; min-width: 250px; margin: 0;">
+  <p aligh="left">
     I'm a passionate front-end developer with a focus on building beautiful and performant web applications. My core skills revolve around modern JavaScript frameworks and libraries, particularly React, with a strong emphasis on TypeScript for type-safe code. I enjoy working on user interfaces, bringing designs to life with tools like HTML, CSS, Bootstrap, Styled Components, and Tailwind CSS.
   </p>
+  <img aligh="right" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
  
 
 ---
